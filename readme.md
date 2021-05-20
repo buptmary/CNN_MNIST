@@ -1,8 +1,6 @@
 # PyTorch-CNN-MNIST
 This repo contains a sample code to show how to create a cnn model using pytorch and trained on the mnist.
 ## Demo
-> [http://pytorch-cnn-mnist.herokuapp.com/](http://pytorch-cnn-mnist.herokuapp.com/)
-
 ![](demo.gif)
 ## Install
 Install `pytorch` and other necessary module (`tensorboard` and `matplotlib`).
@@ -24,9 +22,6 @@ python test.py
 1. register an account of [heruku](https://www.heroku.com/)
 2. create an `app` on heruku
 3. push the `deploy` folder to heroku master
-## Blog
-Learn more about training, read the following article written in Chinese
-> [https://blog.csdn.net/qq_42951560/article/details/109565625](https://blog.csdn.net/qq_42951560/article/details/109565625)
 ## Cite
 ```
 https://github.com/avinassh/pytorch-flask-api-heroku
